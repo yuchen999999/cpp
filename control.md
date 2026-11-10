@@ -1,0 +1,5 @@
+i/o優化三行
+inline constexpr
+正常if else 單變數密集array+constexpr 單變數稀疏switch case 特殊ternary bitwise branchless
+range based > std::range
+static可初始化 且全體共用
